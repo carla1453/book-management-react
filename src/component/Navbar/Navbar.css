@@ -1,0 +1,13 @@
+.Navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.home {
+  padding: 8px;
+  border-radius: 6px;
+  background-color: palevioletred;
+  color: black;
+}

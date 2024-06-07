@@ -1,0 +1,20 @@
+.books {
+  border: 1px solid plum;
+  border-radius: 8px;
+  background-color: rgb(179, 132, 179);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 24px;
+  padding: 10px;
+}
+.edit {
+  background-color: burlywood;
+  border-radius: 6px;
+  padding: 8px 24px;
+}
+.photo {
+  border-radius: 8px;
+  margin: 20px;
+}

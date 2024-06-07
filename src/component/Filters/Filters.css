@@ -1,0 +1,12 @@
+.filtre {
+  border: 1px solid peachpuff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+.checkbox {
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: plum;
+}
+
+.book-list {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  flex: 6;
+}
+.page-content {
+  display: flex;
+  flex-direction: row;
+}
+.Filters {
+  flex: 1;
+}

@@ -1,0 +1,16 @@
+.cadre {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 18px;
+  border-radius: 8px;
+}
+.parents-cadre {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  border: black 1px solid;
+}
